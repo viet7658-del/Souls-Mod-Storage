@@ -1,30 +1,30 @@
 [
   {
-    "id": "elden_ring_base",
+    "id": "er_vanilla_vnm",
     "name": "ELDEN RING VIỆT HÓA (BASE)",
     "version": "1.0",
     "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/Elden.Ring.Base.Vi.t.Hoa.zip"
   },
   {
-    "id": "sekiro_vh",
+    "id": "sekiro_vanilla_vnm",
     "name": "SEKIRO VIỆT HÓA",
     "version": "1.0",
     "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/sekiro.vh.zip"
   },
   {
-    "id": "golden_age_vh",
+    "id": "er_golden_age_vnm",
     "name": "GOLDEN AGE VIỆT HÓA (GA)",
     "version": "1.0",
     "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/GA.viet.hoa.zip"
   },
   {
-    "id": "long_may_vh",
+    "id": "sekiro_long_may_vnm",
     "name": "LONG MAY VIỆT HÓA",
     "version": "1.0",
     "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/longmay.vh.zip"
   },
   {
-    "id": "resurrection_vh",
+    "id": "sekiro_resurrection_vnm",
     "name": "RESURRECTION VIỆT HÓA",
     "version": "1.0",
     "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/resu.vh.zip"
