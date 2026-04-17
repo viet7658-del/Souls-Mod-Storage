@@ -28,5 +28,17 @@
     "name": "RESURRECTION VIỆT HÓA",
     "version": "1.0",
     "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/resu.vh.zip"
+  },
+  {
+    "id": "sekiro_elden_art_vnm",
+    "name": "SEKIRO ELDEN ARTS VIỆT HÓA",
+    "version": "1.0",
+    "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/elden.art.zip"
+  },
+  {
+    "id": "sekiro_inner_demon_vnm",
+    "name": "INNER DEMON VIỆT HÓA",
+    "version": "1.0",
+    "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/inner.demon.zip"
   }
 ]
