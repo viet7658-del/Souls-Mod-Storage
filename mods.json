@@ -69,7 +69,7 @@
     "description": "Bản mod Inner Demon đại tu toàn diện trí tuệ nhân tạo (AI) và bộ kỹ năng của các con trùm trong Sekiro, biến chúng thành những phiên bản \"Nội tại\" (Inner) hắc ám và tàn bạo hơn gấp nhiều lần. Các con trùm giờ đây sở hữu các chuỗi đòn tấn công không thể lường trước, khả năng phản công chớp nhoáng và sát thương diện rộng. Gói ngôn ngữ Việt hóa hỗ trợ người chơi nhận diện các trạng thái mới của trùm thông qua hệ thống thông báo được dịch thuật chi tiết, tối ưu hóa cho những pha hành động đòi hỏi phản xạ cực hạn.",
     "tag": "BOSS OVERHAUL",
     "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/inner%20demon.jpg",
-    "download_url": ""
+    "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/Inner.demon.zip"
   },
   {
     "id": "sekiro_elden_art_vnm",
@@ -78,7 +78,7 @@
     "description": "Elden Art là một bản mod đại tu hệ thống Boss và cơ chế chiến đấu chuyên sâu. Bản mod tập trung làm lại hoàn toàn bộ kỹ năng (moveset) của các con trùm, bổ sung các đòn tấn công phức tạp và tăng cường trí tuệ nhân tạo (AI) để tạo ra những trận tái đấu đầy kịch tính. Mọi chỉ số sát thương, tầm đánh và nhịp độ giao tranh đều được tinh chỉnh lại nhằm thử thách giới hạn phản xạ của người chơi. Bản Việt hóa hỗ trợ chuyển ngữ toàn bộ mô tả chi tiết về các thay đổi trong kỹ năng boss, giúp người chơi nắm bắt cơ chế để đưa ra chiến thuật khắc chế phù hợp nhất.",
     "tag": "BOSS OVERHAUL",
     "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/elden%20art.jpg",
-    "download_url": ""
+    "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/elden.art.zip"
   },
   {
     "id": "er_garden_of_eyes_vnm",
