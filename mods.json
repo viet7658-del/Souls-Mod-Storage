@@ -1,44 +1,128 @@
 [
   {
     "id": "er_vanilla_vnm",
-    "name": "ELDEN RING VIỆT HÓA (BASE)",
+    "name": "ELDEN RING (VIỆT HÓA)",
     "version": "1.0",
+    "description": "Elden Ring là một tựa game hành động nhập vai thế giới mở được phát triển bởi FromSoftware và phát hành bởi Bandai Namco. Trò chơi là sự kết hợp giữa thiết kế thế giới tăm tối, đầy thử thách đặc trưng của Hidetaka Miyazaki và nền tảng thần thoại được chắp bút bởi nhà văn George R. R. Martin. Người chơi sẽ hóa thân thành một Tarnished, bắt đầu hành trình khám phá vùng đất Lands Between rộng lớn, đối đầu với các Á thần quyền năng để thu thập các Mảnh vỡ Elden Ring và bước lên ngôi vị Elden Lord.",
+    "tag": "ACTION RPG",
+    "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/Elden%20Ring.jpg",
     "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/Elden.Ring.Base.Vi.t.Hoa.zip"
   },
   {
-    "id": "sekiro_vanilla_vnm",
-    "name": "SEKIRO VIỆT HÓA",
-    "version": "1.0",
-    "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/sekiro.vh.zip"
+    "id": "er_reforged_vnm",
+    "name": "ELDEN RING REFORGED (VIỆT HÓA)",
+    "version": "Coming Soon",
+    "description": "Elden Ring Reforged (ERR) là một bản mod đại tu toàn diện (overhaul) nhằm cân bằng lại trải nghiệm và mở rộng cơ chế chiến đấu của trò chơi gốc. Bản mod bổ sung hàng loạt tính năng mới như cơ chế Đỡ đòn hoàn hảo (Perfect Block) tương tự Sekiro, hệ thống thay đổi độ khó tùy chỉnh, cơ chế cúi người né đòn (Ducking), cùng hệ thống camera được tinh chỉnh lại. Ngoài ra, AI của kẻ địch cũng được làm lại sắc bén hơn, mang đến một thử thách hoàn toàn mới ngay cả với những người chơi kỳ cựu.",
+    "tag": "HARDCORE RPG",
+    "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/ELden%20Ring%20Reforged.jpg",
+    "download_url": ""
+  },
+  {
+    "id": "er_convergence_vnm",
+    "name": "THE CONVERGENCE (VIỆT HÓA)",
+    "version": "Coming Soon",
+    "description": "The Convergence là một trong những bản mod mở rộng quy mô nhất từng được tạo ra cho Elden Ring. Bản mod này thay đổi hoàn toàn hệ thống tiến trình game, bổ sung 27 lớp nhân vật (class) khởi đầu độc đáo và hơn 300 loại phép thuật mới. Trò chơi cũng cải tổ lại cấu trúc bản đồ, vị trí các con trùm, thay đổi hệ thống chế tạo và thêm vào mạng lưới cổng dịch chuyển Erdtree, cho phép người chơi tự do lựa chọn tuyến đường khám phá của riêng mình trong Lands Between.",
+    "tag": "DARK FANTASY",
+    "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/Eden%20Ring%20The%20Convergence.jpg",
+    "download_url": ""
   },
   {
     "id": "er_golden_age_vnm",
-    "name": "GOLDEN AGE VIỆT HÓA (GA)",
-    "version": "1.0",
-    "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/GA.viet.hoa.zip"
+    "name": "ELDEN RING: GOLDEN AGE (VIỆT HÓA)",
+    "version": "Coming Soon",
+    "description": "Golden Age là một bản mod đại tu toàn diện, thay đổi hoàn toàn trải nghiệm cốt lõi của trò chơi gốc. Dự án này mang đến hàng loạt cơ chế chiến đấu đột phá được tích hợp và lấy cảm hứng từ nhiều tựa game hành động nổi tiếng khác, tạo ra một hệ thống giao tranh đa dạng và có chiều sâu. Người chơi sẽ được thử sức với các tùy chọn trùm hoàn toàn mới cùng những chuỗi chiêu thức phức tạp chưa từng xuất hiện tại Lands Between. Với kho vũ khí, phép thuật và bộ quy tắc sinh tồn được thiết kế lại từ đầu, Golden Age mang đến một hành trình khám phá mới mẻ, tàn khốc và đầy thử thách cho cả những người chơi kỳ cựu nhất.",
+    "tag": "ACTION RPG",
+    "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/Elden%20Ring%20Golden%20Age.png",
+    "download_url": ""
   },
   {
-    "id": "sekiro_long_may_vnm",
-    "name": "LONG MAY VIỆT HÓA",
+    "id": "sekiro_vanilla_vnm",
+    "name": "SEKIRO: SHADOWS DIE TWICE (VIỆT HÓA)",
     "version": "1.0",
-    "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/longmay.vh.zip"
+    "description": "Sekiro: Shadows Die Twice là tựa game hành động phiêu lưu góc nhìn thứ ba do FromSoftware phát triển, từng đạt giải thưởng Game of the Year. Lấy bối cảnh Nhật Bản thời kỳ Chiến Quốc (Sengoku) tàn khốc, người chơi vào vai Wolf, một nhẫn giả cụt tay đang trên đường giải cứu vị chủ nhân trẻ tuổi. Game nổi bật với hệ thống chiến đấu nhịp độ cực cao, đòi hỏi sự chính xác tuyệt đối qua cơ chế Posture (cấu trúc) và Deflect (đỡ đòn phản công), cùng cánh tay giả đa dụng.",
+    "tag": "ACTION ADVENTURE",
+    "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/Sekiro_art.jpg",
+    "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/sekiro.vh.zip"
   },
   {
     "id": "sekiro_resurrection_vnm",
-    "name": "RESURRECTION VIỆT HÓA",
+    "name": "SEKIRO RESURRECTION (VIỆT HÓA)",
     "version": "1.0",
+    "description": "Sekiro Resurrection là một bản mod đại tu lối chơi nhằm đẩy giới hạn thử thách của game lên mức tối đa. Bản mod tập trung tinh chỉnh và nâng cấp toàn diện trí tuệ nhân tạo (AI) của các con trùm và trùm phụ, cung cấp cho chúng những chuỗi đòn đánh liên hoàn (combo) hoàn toàn mới và tốc độ phản ứng đáng sợ. Bù lại, người chơi cũng được mở khóa thêm các cơ chế phòng thủ chủ động và hệ thống kỹ năng Combat Arts được làm lại để đối phó với độ khó khốc liệt này.",
+    "tag": "HARDCORE ACTION",
+    "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/sekiro%20resurrection.jpg",
     "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/resu.vh.zip"
   },
   {
-    "id": "sekiro_elden_art_vnm",
-    "name": "SEKIRO ELDEN ARTS VIỆT HÓA",
+    "id": "sekiro_long_may_vnm",
+    "name": "SEKIRO: LONG MAY SHADOWS (VIỆT HÓA)",
     "version": "1.0",
-    "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/elden.art.zip"
+    "description": "Thường được gọi tắt là LMTSR, đây là bản mod đại tu cực kỳ hardcore dành riêng cho những người chơi Sekiro muốn tìm kiếm giới hạn mới. Bản mod làm lại toàn bộ hệ thống vị trí kẻ địch, bổ sung thêm hàng loạt trùm phụ và nâng cấp các con trùm chính với các đòn tấn công mang hiệu ứng nguyên tố (VFX) rực rỡ nhưng vô cùng hiểm hóc. LMTSR thay đổi hoàn toàn nhịp độ trận đấu, biến mỗi cuộc chạm trán thành một màn thử thách kỹ năng và phản xạ tột độ.",
+    "tag": "HARDCORE ACTION",
+    "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/Sekiro%20Long%20May.jpg",
+    "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/longmay.vh.zip"
   },
   {
     "id": "sekiro_inner_demon_vnm",
-    "name": "INNER DEMON VIỆT HÓA",
-    "version": "1.0",
-    "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/inner.demon.zip"
+    "name": "SEKIRO: INNER DEMON (VIỆT HÓA)",
+    "version": "Coming Soon",
+    "description": "Bản mod Inner Demon đại tu toàn diện trí tuệ nhân tạo (AI) và bộ kỹ năng của các con trùm trong Sekiro, biến chúng thành những phiên bản \"Nội tại\" (Inner) hắc ám và tàn bạo hơn gấp nhiều lần. Các con trùm giờ đây sở hữu các chuỗi đòn tấn công không thể lường trước, khả năng phản công chớp nhoáng và sát thương diện rộng. Gói ngôn ngữ Việt hóa hỗ trợ người chơi nhận diện các trạng thái mới của trùm thông qua hệ thống thông báo được dịch thuật chi tiết, tối ưu hóa cho những pha hành động đòi hỏi phản xạ cực hạn.",
+    "tag": "BOSS OVERHAUL",
+    "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/inner%20demon.jpg",
+    "download_url": ""
+  },
+  {
+    "id": "sekiro_elden_art_vnm",
+    "name": "SEKIRO: ELDEN ART (VIỆT HÓA)",
+    "version": "Coming Soon",
+    "description": "Elden Art là một bản mod đại tu hệ thống Boss và cơ chế chiến đấu chuyên sâu. Bản mod tập trung làm lại hoàn toàn bộ kỹ năng (moveset) của các con trùm, bổ sung các đòn tấn công phức tạp và tăng cường trí tuệ nhân tạo (AI) để tạo ra những trận tái đấu đầy kịch tính. Mọi chỉ số sát thương, tầm đánh và nhịp độ giao tranh đều được tinh chỉnh lại nhằm thử thách giới hạn phản xạ của người chơi. Bản Việt hóa hỗ trợ chuyển ngữ toàn bộ mô tả chi tiết về các thay đổi trong kỹ năng boss, giúp người chơi nắm bắt cơ chế để đưa ra chiến thuật khắc chế phù hợp nhất.",
+    "tag": "BOSS OVERHAUL",
+    "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/elden%20art.jpg",
+    "download_url": ""
+  },
+  {
+    "id": "er_garden_of_eyes_vnm",
+    "name": "ELDEN RING: GARDEN OF EYES (VIỆT HÓA)",
+    "version": "Coming Soon",
+    "description": "Garden of Eyes là một trong những dự án mod tham vọng nhất của Elden Ring, bổ sung hàng tá vũ khí, phép thuật, áo giáp và đặc biệt là các con trùm hoàn toàn mới chưa từng xuất hiện trong game gốc. Bản mod còn tích hợp hệ thống vũ khí biến hình (Trick Weapons) lấy cảm hứng từ Bloodborne và cơ chế thú cưỡi được thiết kế lại. Bản Việt hóa chuyển ngữ đồ sộ toàn bộ lore mới, vật phẩm và chỉ số kỹ thuật, mang đến trải nghiệm khám phá liền mạch và trọn vẹn cho người chơi tại Lands Between.",
+    "tag": "MASSIVE OVERHAUL",
+    "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/garden%20of%20eyes.jpg",
+    "download_url": ""
+  },
+  {
+    "id": "er_darkmoon_vnm",
+    "name": "ELDEN RING: DARK MOON (VIỆT HÓA)",
+    "version": "Coming Soon",
+    "description": "Elden Ring Dark Moon là bản mod đại tu toàn diện thay đổi sâu rộng hệ thống chiến đấu, bổ sung cơ chế lướt (Dash) và cơ chế hồi máu từ đòn tấn công mang đậm phong cách hành động nhịp độ cao. Ngoài ra, bản mod mở khóa các lớp nhân vật khởi đầu mới, hệ thống thương nhân được sắp xếp lại và các trang bị độc quyền. Giao diện và hệ thống văn bản được Việt hóa chỉn chu, giúp người chơi dễ dàng làm quen với nhịp độ chiến đấu nhanh, dồn dập và tàn bạo hơn rất nhiều so với phiên bản gốc.",
+    "tag": "TOTAL CONVERSION",
+    "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/Darkmoon.jpg",
+    "download_url": ""
+  },
+  {
+    "id": "er_graceborne_vnm",
+    "name": "ELDEN RING: GRACEBORNE (VIỆT HÓA)",
+    "version": "Coming Soon",
+    "description": "Graceborne là dự án chuyển đổi toàn diện, biến Elden Ring thành trải nghiệm mang âm hưởng Bloodborne. Bản mod loại bỏ hoàn toàn cơ chế đỡ đòn bằng khiên, thay vào đó là hệ thống súng dùng để phản đòn và vũ khí biến hình với hàng loạt chuỗi chiêu thức tùy chỉnh. Bóng tối và sự u ám bao trùm Lands Between nhờ tông màu hình ảnh được đại tu. Bản dịch Việt hóa sát nghĩa toàn bộ hệ thống thông số vũ khí, cơ chế hồi phục và các vật phẩm đặc thù, giúp người chơi đắm chìm vào cuộc đi săn.",
+    "tag": "BLOODBORNE PORT",
+    "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/GraceBorne.jpg",
+    "download_url": ""
+  },
+  {
+    "id": "er_tarnished_edition_vnm",
+    "name": "ELDEN RING: TARNISHED EDITION (VIỆT HÓA)",
+    "version": "Coming Soon",
+    "description": "Tarnished Edition tập trung vào việc tinh chỉnh lại độ khó và cân bằng hệ thống chiến đấu cốt lõi. Bản mod cấu trúc lại toàn bộ vị trí đặt vật phẩm, chỉ số sát thương của kẻ địch, cũng như đại tu hệ thống chế tạo và độ chống chịu của các loại giáp. Gói Việt hóa hỗ trợ hiển thị thông số chi tiết của những thay đổi này trên màn hình giao diện, giúp người chơi có những tính toán chiến thuật chính xác nhất trước mỗi trận chiến. Đây là thử thách thực sự cho những ai đã quá quen thuộc với game gốc.",
+    "tag": "HARDCORE OVERHAUL",
+    "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/Tarnished%20edition.jpg",
+    "download_url": ""
+  },
+  {
+    "id": "er_reborn_vnm",
+    "name": "ELDEN RING: REBORN (VIỆT HÓA)",
+    "version": "Coming Soon",
+    "description": "Elden Ring Reborn đại tu sâu sắc hệ thống phép thuật, vũ khí và sự phát triển nhân vật. Bản mod mang lại hàng loạt bùa chú và ma thuật với hiệu ứng hình ảnh hoàn toàn mới, đồng thời cân bằng lại hệ thống chia tỷ lệ của mọi loại vũ khí. Nội dung dịch thuật cập nhật toàn bộ các chỉ số mới, mô tả hiệu ứng bùa lợi và các bất lợi phức tạp, hỗ trợ người chơi xây dựng những lớp nhân vật mạnh mẽ và độc đáo chưa từng thấy ở trò chơi gốc.",
+    "tag": "SYSTEM OVERHAUL",
+    "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/reborn.jpg",
+    "download_url": ""
   }
 ]
