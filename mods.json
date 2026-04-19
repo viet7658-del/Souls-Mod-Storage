@@ -101,11 +101,11 @@
   {
     "id": "er_graceborne_vnm",
     "name": "ELDEN RING: GRACEBORNE (VIỆT HÓA)",
-    "version": "Coming Soon",
+    "version": "Lastest",
     "description": "Graceborne là dự án chuyển đổi toàn diện, biến Elden Ring thành trải nghiệm mang âm hưởng Bloodborne. Bản mod loại bỏ hoàn toàn cơ chế đỡ đòn bằng khiên, thay vào đó là hệ thống súng dùng để phản đòn và vũ khí biến hình với hàng loạt chuỗi chiêu thức tùy chỉnh. Bóng tối và sự u ám bao trùm Lands Between nhờ tông màu hình ảnh được đại tu. Bản dịch Việt hóa sát nghĩa toàn bộ hệ thống thông số vũ khí, cơ chế hồi phục và các vật phẩm đặc thù, giúp người chơi đắm chìm vào cuộc đi săn.",
     "tag": "BLOODBORNE PORT",
     "poster": "https://raw.githubusercontent.com/viet7658-del/Souls-Mod-Storage/main/images/GraceBorne.jpg",
-    "download_url": ""
+    "download_url": "https://github.com/viet7658-del/Souls-Mod-Storage/releases/download/v1.0/Graceborne.Vh.zip"
   },
   {
     "id": "er_tarnished_edition_vnm",
